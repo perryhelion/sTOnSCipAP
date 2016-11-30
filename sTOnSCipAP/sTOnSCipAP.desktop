@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=sTOnSCipAP
+Exec=sTOnSCipAP
+Icon=sTOnSCipAP/sTOnSCipAP.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
