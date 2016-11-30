@@ -1,0 +1,15 @@
+{
+    "name": "stonscipap.phelion",
+    "description": "sTOnSCipAP - An electronic version of Stone,Scissors, Paper for 2 players",
+    "architecture": "@CLICK_ARCH@",
+    "title": "sTOnSCipAP",
+    "hooks": {
+        "sTOnSCipAP": {
+            "apparmor": "sTOnSCipAP/sTOnSCipAP.apparmor",
+            "desktop": "sTOnSCipAP/sTOnSCipAP.desktop"
+        }
+    },
+    "version": "0.2",
+    "maintainer": "P Helion <perryhelionsemail@gmail.com>",
+    "framework": "ubuntu-sdk-15.04.6"
+}
