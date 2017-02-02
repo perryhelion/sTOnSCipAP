@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-11-30 12:13+0000\n"
+"POT-Creation-Date: 2017-02-02 11:56+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,69 +17,96 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:41
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:37
 msgid "Everyone"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:49
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:38
+msgid "Stone"
+msgstr ""
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:38
+msgid "Scissors"
+msgstr ""
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:38
+msgid "Paper"
+msgstr ""
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:41
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:42
+msgid " blunts "
+msgstr ""
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:41
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:43
+msgid " covers "
+msgstr ""
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:42
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:43
+msgid " cut "
+msgstr ""
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:52
 msgid "...processing dramatic tension..."
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:129
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/build-sTOnSCipAP-UbuntuSDK_for_desktop_GCC_amd64_ubuntu_sdk_15_04-Release/sTOnSCipAP/sTOnSCipAP.desktop.h:1
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:150
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/build-sTOnSCipAP-UbuntuSDK_for_builder_armhf_GCC_armhf_ubuntu_sdk_15_04-Release/sTOnSCipAP/sTOnSCipAP.desktop.h:1
 msgid "sTOnSCipAP"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:196
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:207
 msgid "Lune to choose..."
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:237
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:303
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:248
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:314
 msgid "Make your choice then press 'Proceed'"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:258
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:269
 msgid "Wolfman to choose..."
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:324
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:335
 msgid "Who's decision will win?"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:435
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:446
 msgid "Done"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:445
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:456
 msgid " wins!"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:635
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:647
 msgid "The Electronic Decision Maker"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:663
-msgid "Info"
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:675
+msgid "Settings"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:682
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:694
 msgid "Play"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:858
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:870
 msgid "Proceed"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:915
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:927
 msgid "SeTTinGs & InFO"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:954
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:966
 msgid "How To Play"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:965
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:977
 msgid ""
 "sTOnScipAP is a game for 2 players that can help break the stalemate of a "
 "decision by utilising the time-old tradition of playing 'Stone, Scissors, "
@@ -96,30 +123,30 @@ msgid ""
 "Stone beats Scissors.  Scissors beats Paper.  Paper beats Stone.\n"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:980
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:992
 msgid "Sound"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1025
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1037
 msgid "Scores"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1078
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1090
 msgid "Reset"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1102
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1114
 msgid "Dramatic Pause Length"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1119
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1131
 msgid " seconds"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1164
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1176
 msgid "Dramatic Pause Message"
 msgstr ""
 
-#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1204
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1216
 msgid "Change"
 msgstr ""

@@ -9,7 +9,7 @@
             "desktop": "sTOnSCipAP/sTOnSCipAP.desktop"
         }
     },
-    "version": "0.2",
+    "version": "0.3",
     "maintainer": "P Helion <perryhelionsemail@gmail.com>",
     "framework": "ubuntu-sdk-15.04.6"
 }

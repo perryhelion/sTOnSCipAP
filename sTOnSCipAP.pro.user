@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.1.0, 2016-11-30T12:26:33. -->
+<!-- Written by QtCreator 4.1.0, 2017-02-02T12:21:35. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -8,7 +8,7 @@
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
-  <value type="int">3</value>
+  <value type="int">2</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.EditorSettings</variable>
@@ -262,11 +262,13 @@
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">UbuntuProjectManager.UploadStep</value>
       <valuelist type="QVariantList" key="Qt4ProjectManager.MaemoRunConfiguration.LastDeployedFiles">
-       <value type="QString">/home/buntux1604/UbuntuSDK/02-CleanedUp/build-sTOnSCipAP-UbuntuSDK_for_builder_armhf_GCC_armhf_ubuntu_sdk_15_04-Debug/stonscipap.phelion_0.1_armhf.click</value>
-       <value type="QString">/usr/ubuntu-sdk-ide/share/qtcreator/ubuntu/scripts/qtc_device_applaunch.py</value>
        <value type="QString">/home/buntux1604/UbuntuSDK/02-CleanedUp/build-sTOnSCipAP-UbuntuSDK_for_builder_armhf_GCC_armhf_ubuntu_sdk_15_04-Release/stonscipap.phelion_0.1_armhf.click</value>
+       <value type="QString">/home/buntux1604/UbuntuSDK/02-CleanedUp/build-sTOnSCipAP-UbuntuSDK_for_builder_armhf_GCC_armhf_ubuntu_sdk_15_04-Debug/stonscipap.phelion_0.1_armhf.click</value>
+       <value type="QString">/home/buntux1604/UbuntuSDK/02-CleanedUp/build-sTOnSCipAP-UbuntuSDK_for_builder_armhf_GCC_armhf_ubuntu_sdk_15_04-Release/stonscipap.phelion_0.3_armhf.click</value>
+       <value type="QString">/usr/ubuntu-sdk-ide/share/qtcreator/ubuntu/scripts/qtc_device_applaunch.py</value>
       </valuelist>
       <valuelist type="QVariantList" key="Qt4ProjectManager.MaemoRunConfiguration.LastDeployedHosts">
+       <value type="QString">127.0.0.1</value>
        <value type="QString">127.0.0.1</value>
        <value type="QString">127.0.0.1</value>
        <value type="QString">127.0.0.1</value>
@@ -275,16 +277,19 @@
        <value type="QString">/tmp</value>
        <value type="QString">/tmp</value>
        <value type="QString">/tmp</value>
+       <value type="QString">/tmp</value>
       </valuelist>
       <valuelist type="QVariantList" key="Qt4ProjectManager.MaemoRunConfiguration.LastDeployedSysroots">
        <value type="QString">/var/lib/lxd/containers/builder-armhf/rootfs</value>
        <value type="QString">/var/lib/lxd/containers/builder-armhf/rootfs</value>
        <value type="QString">/var/lib/lxd/containers/builder-armhf/rootfs</value>
+       <value type="QString">/var/lib/lxd/containers/builder-armhf/rootfs</value>
       </valuelist>
       <valuelist type="QVariantList" key="Qt4ProjectManager.MaemoRunConfiguration.LastDeployedTimes">
+       <value type="QDateTime">2016-11-30T12:13:43</value>
        <value type="QDateTime">2016-11-26T11:37:12</value>
-       <value type="QDateTime">2016-11-30T12:13:43</value>
-       <value type="QDateTime">2016-11-30T12:13:43</value>
+       <value type="QDateTime">2017-02-02T11:59:01</value>
+       <value type="QDateTime">2017-02-02T11:59:01</value>
       </valuelist>
      </valuemap>
      <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
@@ -1056,24 +1061,29 @@
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
       <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">UbuntuProjectManager.UploadStep</value>
       <valuelist type="QVariantList" key="Qt4ProjectManager.MaemoRunConfiguration.LastDeployedFiles">
-       <value type="QString">/usr/ubuntu-sdk-ide/share/qtcreator/ubuntu/scripts/qtc_device_applaunch.py</value>
        <value type="QString">/home/buntux1604/UbuntuSDK/02-CleanedUp/build-sTOnSCipAP-Ubuntu_Device2_Nexus4_GCC_armhf_ubuntu_sdk_15_04_builder_armhf-Release/stonscipap.phelion_0.1_armhf.click</value>
+       <value type="QString">/home/buntux1604/UbuntuSDK/02-CleanedUp/build-sTOnSCipAP-Ubuntu_Device2_Nexus4_GCC_armhf_ubuntu_sdk_15_04_builder_armhf-Release/stonscipap.phelion_0.3_armhf.click</value>
+       <value type="QString">/usr/ubuntu-sdk-ide/share/qtcreator/ubuntu/scripts/qtc_device_applaunch.py</value>
       </valuelist>
       <valuelist type="QVariantList" key="Qt4ProjectManager.MaemoRunConfiguration.LastDeployedHosts">
+       <value type="QString">127.0.0.1</value>
        <value type="QString">127.0.0.1</value>
        <value type="QString">127.0.0.1</value>
       </valuelist>
       <valuelist type="QVariantList" key="Qt4ProjectManager.MaemoRunConfiguration.LastDeployedRemotePaths">
        <value type="QString">/tmp</value>
        <value type="QString">/tmp</value>
+       <value type="QString">/tmp</value>
       </valuelist>
       <valuelist type="QVariantList" key="Qt4ProjectManager.MaemoRunConfiguration.LastDeployedSysroots">
+       <value type="QString">/var/lib/lxd/containers/builder-armhf/rootfs</value>
        <value type="QString">/var/lib/lxd/containers/builder-armhf/rootfs</value>
        <value type="QString">/var/lib/lxd/containers/builder-armhf/rootfs</value>
       </valuelist>
       <valuelist type="QVariantList" key="Qt4ProjectManager.MaemoRunConfiguration.LastDeployedTimes">
        <value type="QDateTime">2016-11-30T12:18:45</value>
-       <value type="QDateTime">2016-11-30T12:18:45</value>
+       <value type="QDateTime">2017-01-26T04:26:16</value>
+       <value type="QDateTime">2017-01-26T04:26:16</value>
       </valuelist>
      </valuemap>
      <value type="int" key="ProjectExplorer.BuildStepList.StepsCount">2</value>
