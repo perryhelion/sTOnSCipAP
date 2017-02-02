@@ -39,3 +39,6 @@ INSTALLS+=desktop_file
 # Default rules for deployment.
 target.path = $${UBUNTU_CLICK_BINARY_PATH}
 INSTALLS+=target
+
+DISTFILES += \
+    Pics/justarrow.png
