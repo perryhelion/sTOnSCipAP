@@ -1,0 +1,165 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-02 11:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: NORWEGIAN <LL@li.org>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:37
+msgid "Everyone"
+msgstr "Alle"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:38
+msgid "Stone"
+msgstr "Stein"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:38
+msgid "Scissors"
+msgstr "Saks"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:38
+msgid "Paper"
+msgstr "Papir"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:41
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:42
+msgid " blunts "
+msgstr " sløver "
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:41
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:43
+msgid " covers "
+msgstr " dekker "
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:42
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:43
+msgid " cut "
+msgstr " klipper "
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:52
+msgid "...processing dramatic tension..."
+msgstr "...bearbeiding av dramatisk spenning..."
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:150
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/build-sTOnSCipAP-UbuntuSDK_for_builder_armhf_GCC_armhf_ubuntu_sdk_15_04-Release/sTOnSCipAP/sTOnSCipAP.desktop.h:1
+msgid "sTOnSCipAP"
+msgstr "SteinSaksPapir"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:207
+msgid "Lune to choose..."
+msgstr "Lune velger..."
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:248
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:314
+msgid "Make your choice then press 'Proceed'"
+msgstr "Gjør ditt valg og trykk deretter 'Fortsett'"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:269
+msgid "Wolfman to choose..."
+msgstr "Wolfman velger..."
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:335
+msgid "Who's decision will win?"
+msgstr "Hvem sitt valg vil vinne?"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:446
+msgid "Done"
+msgstr "Utført"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:456
+msgid " wins!"
+msgstr " vinner!"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:647
+msgid "The Electronic Decision Maker"
+msgstr "Den elektroniske beslutningstakeren"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:675
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:694
+msgid "Play"
+msgstr "Spill"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:870
+msgid "Proceed"
+msgstr "Fortsett"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:927
+msgid "SeTTinGs & InFO"
+msgstr "Innstillinger & Info"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:966
+msgid "How To Play"
+msgstr "Hvordan spille"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:977
+msgid ""
+"sTOnScipAP is a game for 2 players that can help break the stalemate of a "
+"decision by utilising the time-old tradition of playing 'Stone, Scissors, "
+"Paper'.\n"
+"\n"
+"Each player makes their choice away from the prying eyes of their opponent "
+"and when the 2nd player has chosen and pressed 'Proceed', they can place the "
+"device down for both of them to see the drama unfold, the winner be unveiled "
+"and the decision be made...\n"
+"\n"
+"In the fairly unlikely event of you never having played 'Stone, Scissors, "
+"Paper' before, then it might be handy to know the following:\n"
+"\n"
+"Stone beats Scissors.  Scissors beats Paper.  Paper beats Stone.\n"
+msgstr ""
+"SteinSaksPapir er et spill for to spillere som kan bidra til å bryte en "
+"fastlåst avgjørelse ved å bruke den gamle tradisjonen med å spille 'Stein, saks "
+"papir'.\n"
+"\n"
+"Hver spiller gjør sitt valg borte fra motstanderens nysgjerrige øyne "
+"og når den andre spilleren har valgt og trykket 'Fortsett', kan de plassere "
+"enheten ned for begge å se dramaet utfolde seg, vinneren blir avduket "
+"og avgjørelsen tas ...\n"
+"\n"
+"I det ganske usannsynlige tilfellet at du aldri har spilt 'Stein, saks, "
+"papir' før, så kan det være nyttig å vite følgende:\n"
+"\n"
+"Stein slår saks. Saks slår papir. Papir slår stein.\n"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:992
+msgid "Sound"
+msgstr "Lyd"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1037
+msgid "Scores"
+msgstr "Poeng"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1090
+msgid "Reset"
+msgstr "Nullstill"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1114
+msgid "Dramatic Pause Length"
+msgstr "Dramatisk pause"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1131
+msgid " seconds"
+msgstr " sekunder"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1176
+msgid "Dramatic Pause Message"
+msgstr "Dramatisk pause-melding"
+
+#: /home/buntux1604/UbuntuSDK/02-CleanedUp/sTOnSCipAP/sTOnSCipAP/Main.qml:1216
+msgid "Change"
+msgstr "Endre"
